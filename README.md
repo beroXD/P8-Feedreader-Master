@@ -7,7 +7,7 @@ This is my 8th project in the Udacity Front-End Web Developer Nanodegree Program
 - Download the repository.
 - Open `index.html`
 
-[!Screenshot]()
+![screenshot](https://github.com/beroXD/P8-Feedreader-Master/blob/master/screencapture.png)
 
 ### This test contains 4 suite and 8 specs.
 
