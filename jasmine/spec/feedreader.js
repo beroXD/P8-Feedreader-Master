@@ -41,7 +41,7 @@ $(function () {
 				expect(feedName.name).toBeDefined();
 				expect(feedName.name).not.toBe('');
 			});
-		})
+		});
 	});
 
 	/* This is our second test suite - This suite is all about the menu
