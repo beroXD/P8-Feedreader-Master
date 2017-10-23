@@ -52,7 +52,7 @@ $(function () {
 		 * hidden by default.
 		 */
 		it('menu hidden by default', function () {
-			expect(document.body.className).toContain('menu-hidden');
+			expect($(document.body).hasClass('menu-hidden')).toBe(true);
 		});
 
 		/* This is our fifth test - it test if the menu changes
@@ -117,7 +117,7 @@ $(function () {
 		});
 
 		it('load new content', function (done) {
-			expect('newFeed').not.toBe('oldFeed');
+			expect(oldFeed).not.toEqual(newFeed);
 			done();
 		});
 	});
