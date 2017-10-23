@@ -25,7 +25,7 @@ This is my 8th project in the Udacity Front-End Web Developer Nanodegree Program
 
 - spec `feed has at least a single entry`, test that the RSS feed has at least one entry.
 
-### Forth suite `New Feed Selection`
+### Fourth suite `New Feed Selection`
 
 - spec `load new content`, test ensures that the content of the RSS feed will actuly change when new content is loaded.
 
